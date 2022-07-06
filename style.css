@@ -3,11 +3,17 @@ body{
     margin: 0;
     
 }
-.heading{
+.header-section{
     background-image: url(images/donation9.jpg);
-    padding: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    padding: 300px 300px 300px 300px;
     text-align: center;
 }
+
 .link{
     text-decoration: none;
     padding: 10px 40px;
